@@ -1,15 +1,18 @@
-# My Portfolio Wesbite - Overview 🚀
+# Harsh Gavhane - Software Engineer Portfolio 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Welcome to the source code for my portfolio website! 
 
 ## Instructions 🛠️
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+To run the project locally:
+1. `npm install`
+2. `npm run dev`
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+Note: This project uses GSAP trial plugins. For production hosting, you may need to acquire Club GSAP plugins. Check out: https://gsap.com/docs/v3/Installation/
 
-![Portfolio-Preview](public/images/preview.png)
+**Techstack**: React, TypeScript, GSAP, ThreeJS, HTML, CSS, JavaScript
+
+![Harsh Gavhane](https://github.com/HarshGavhane.png)
 
 ## License
 
