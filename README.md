@@ -12,7 +12,7 @@ Note: This project uses GSAP trial plugins. For production hosting, you may need
 
 **Techstack**: React, TypeScript, GSAP, ThreeJS, HTML, CSS, JavaScript
 
-![Portfolio-Preview](public/images/preview.png)
+![Harsh Gavhane](public/images/preview.png)
 
 ## License
 
