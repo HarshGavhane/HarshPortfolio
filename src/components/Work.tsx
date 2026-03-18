@@ -8,7 +8,7 @@ const projects = [
     title: "Context-Aware Disaster Monitoring",
     category: "Research Project",
     tools: "AWS Lambda, IoT Core, DynamoDB, SNS",
-    image: "/images/disaster_monitoring.png",
+    image: "/images/p1.png",
   },
   {
     title: "Accommodation Booking Platform",
